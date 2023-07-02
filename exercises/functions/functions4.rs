@@ -21,6 +21,6 @@ fn sale_price(price: u32) -> u32 {
     }
 }
 
-fn is_even(num: i32) -> bool {
+fn is_even(num: u32) -> bool {
     num % 2 == 0
 }
